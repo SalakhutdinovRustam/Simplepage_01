@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Regular'), local('Cabin-Regular'), url('cabinregular.woff2') format('woff2'), url('cabinregular.woff') format('woff'), url('cabinregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Italic'), local('Cabin-Italic'), url('cabinitalic.woff2') format('woff2'), url('cabinitalic.woff') format('woff'), url('cabinitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Medium'), local('Cabin-Medium'), url('cabinmedium.woff2') format('woff2'), url('cabinmedium.woff') format('woff'), url('cabinmedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Medium Italic'), local('Cabin-MediumItalic'), url('cabinmediumitalic.woff2') format('woff2'), url('cabinmediumitalic.woff') format('woff'), url('cabinmediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin SemiBold'), local('Cabin-SemiBold'), url('cabinsemibold.woff2') format('woff2'), url('cabinsemibold.woff') format('woff'), url('cabinsemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin SemiBold Italic'), local('Cabin-SemiBoldItalic'), url('cabinsemibolditalic.woff2') format('woff2'), url('cabinsemibolditalic.woff') format('woff'), url('cabinsemibolditalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Bold'), local('Cabin-Bold'), url('cabinbold.woff2') format('woff2'), url('cabinbold.woff') format('woff'), url('cabinbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cabin';
+    src: local('Cabin Bold Italic'), local('Cabin-BoldItalic'), url('cabinbolditalic.woff2') format('woff2'), url('cabinbolditalic.woff') format('woff'), url('cabinbolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
