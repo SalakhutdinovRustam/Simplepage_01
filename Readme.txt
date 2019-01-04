@@ -1,0 +1,1 @@
+Simple website template with responsive layout
